@@ -3,13 +3,6 @@ import argparse
 import re
 from pathlib import Path
 
-
-import requests
-import argparse
-import re
-from pathlib import Path
-
-
 class OsuBeatMapsDownloader:
 
     def __init__(self):
